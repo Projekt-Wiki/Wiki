@@ -1,0 +1,20 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#header{
+    margin-top: -70px;
+    text-align: center;
+}
+
+#explanation{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#headericon{
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
