@@ -3,6 +3,17 @@
     box-sizing: border-box;
 }
 
+.h1-copyright{
+    margin-top: -70px;
+    text-align: center;
+}
+
+.logo-copyright{
+   width: 100px;
+    height: 100px;
+    align-content: center;
+}
+
 #header{
     margin-top: -70px;
     text-align: center;
@@ -17,4 +28,20 @@
     width: 100px;
     height: 100px;
     align-content: center;
+}
+
+.copyright-content{
+    display: block;
+    max-width: 800px;
+    margin: -180px auto;
+    text-align: center;
+    line-height: 1.5;
+    padding: 0 10px;
+}
+
+.copyright-photo{
+    display: block;
+    max-width: 600px;
+    height: auto;
+    margin: -100px 1450px auto;
 }
