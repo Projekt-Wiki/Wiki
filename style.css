@@ -5,6 +5,8 @@
 
 .h1-copyright{
     margin-top: -70px;
+}
+#header{
     text-align: center;
 }
 
@@ -43,6 +45,7 @@
     max-width: 600px;
     height: auto;
     margin: -100px 1450px auto;
+}
 #inputsite{
     margin-top: 10px;
 }
