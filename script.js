@@ -11,5 +11,7 @@ function openPage(){
         window.open("DNS.html","_self")
     }  else if (input.value == "Programmeringens Historia") {
         window.open("ProgrammeringHistoria.html","_self")
+    }  else if (input.value == "AI Historia") {
+        window.open("ai-historia.html","_self")
     }
 }
